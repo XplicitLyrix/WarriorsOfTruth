@@ -1,0 +1,10 @@
+com.DefaultCompany.WOT.launcher-pngs-0 C:\Game Design\WarriorsOfTruth\WOT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.WOT.launcher-resValues-1 C:\Game Design\WarriorsOfTruth\WOT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.WOT.launcher-rs-2 C:\Game Design\WarriorsOfTruth\WOT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.WOT.launcher-mergeReleaseResources-3 C:\Game Design\WarriorsOfTruth\WOT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.WOT.launcher-mergeReleaseResources-4 C:\Game Design\WarriorsOfTruth\WOT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.WOT.launcher-merged_res-5 C:\Game Design\WarriorsOfTruth\WOT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.WOT.launcher-main-6 C:\Game Design\WarriorsOfTruth\WOT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.WOT.launcher-release-7 C:\Game Design\WarriorsOfTruth\WOT\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.WOT.launcher-packaged_res-8 C:\Game Design\WarriorsOfTruth\WOT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.WOT.launcher-packaged_res-9 C:\Game Design\WarriorsOfTruth\WOT\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\mobilenotifications.androidlib\build\intermediates\packaged_res\release
